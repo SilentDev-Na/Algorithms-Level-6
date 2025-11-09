@@ -3,8 +3,6 @@
 This folder contains **algorithms and data structures** that I am currently learning from a course.  
 All implementations will be done in **C#**.
 
-> Note: I have just started the course, so no solutions or implementations are included yet.
-
 ---
 
 ## 🔹 Topics Covered in This Folder
