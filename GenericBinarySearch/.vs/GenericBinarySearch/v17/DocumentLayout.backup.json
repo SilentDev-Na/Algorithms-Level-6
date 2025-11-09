@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{FCC17EEC-365B-4111-A0A4-337235B8AAD9}|GenericBinarySearch.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCC17EEC-365B-4111-A0A4-337235B8AAD9}|GenericBinarySearch.csproj|d:\\algorithms and problem solving c23\\algorithms-level-6\\genericbinarysearch\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCC17EEC-365B-4111-A0A4-337235B8AAD9}|GenericBinarySearch.csproj|D:\\Algorithms And Problem Solving C23\\Algorithms-Level-6\\GenericBinarySearch\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCC17EEC-365B-4111-A0A4-337235B8AAD9}|GenericBinarySearch.csproj|solutionrelative:helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCC17EEC-365B-4111-A0A4-337235B8AAD9}|GenericBinarySearch.csproj|d:\\algorithms and problem solving c23\\algorithms-level-6\\genericbinarysearch\\person class\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCC17EEC-365B-4111-A0A4-337235B8AAD9}|GenericBinarySearch.csproj|D:\\Algorithms And Problem Solving C23\\Algorithms-Level-6\\GenericBinarySearch\\person class\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCC17EEC-365B-4111-A0A4-337235B8AAD9}|GenericBinarySearch.csproj|solutionrelative:person class\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,8 +66,7 @@
               "RelativeToolTip": "Helper\\Helper.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T11:29:44.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T11:29:44.362Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "Person Class\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T11:28:18.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T11:28:18.809Z"
             },
             {
               "$type": "Document",
@@ -90,7 +88,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Algorithms And Problem Solving C23\\Algorithms-Level-6\\GenericBinarySearch\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwFUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwv0kAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T11:26:41.268Z",
               "EditorCaption": ""

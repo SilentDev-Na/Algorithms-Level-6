@@ -5,3 +5,4 @@ D:\Algorithms And Problem Solving C23\Algorithms-Level-6\GenericBinarySearch\bin
 D:\Algorithms And Problem Solving C23\Algorithms-Level-6\GenericBinarySearch\bin\Debug\GenericBinarySearch.pdb
 D:\Algorithms And Problem Solving C23\Algorithms-Level-6\GenericBinarySearch\obj\Debug\GenericBinarySearch.exe
 D:\Algorithms And Problem Solving C23\Algorithms-Level-6\GenericBinarySearch\obj\Debug\GenericBinarySearch.pdb
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\GenericBinarySearch\obj\Debug\GenericBinarySearch.exe.config

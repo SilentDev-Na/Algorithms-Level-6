@@ -77,15 +77,15 @@ namespace GenericBinarySearch
             namesList.Sort();
 
             // ===== Search in object list =====
-
-           // SearchPersonTarget(personsList);
+            // Call SearchPersonTarget to search in the person list
+            // Uncomment the line below to perform the search
+            // SearchPersonTarget(personsList);
 
             // ===== Search in integer list =====
-            //Comment Out To See The Results 
-           // SearchIntegerTarget(numbersList);
+            // Call SearchIntegerTarget to search in the integer list
+            // Uncomment the line below to perform the search
+            SearchIntegerTarget(numbersList);
 
-            // ===== Search in string list =====
-            SearchStringTarget(namesList);
 
             Console.ReadKey();
         }
