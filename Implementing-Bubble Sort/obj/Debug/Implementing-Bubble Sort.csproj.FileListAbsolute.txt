@@ -1,0 +1,8 @@
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing-Bubble Sort\bin\Debug\Implementing-Bubble Sort.exe.config
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing-Bubble Sort\bin\Debug\Implementing-Bubble Sort.exe
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing-Bubble Sort\bin\Debug\Implementing-Bubble Sort.pdb
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing-Bubble Sort\obj\Debug\Implementing-Bubble Sort.csproj.AssemblyReference.cache
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing-Bubble Sort\obj\Debug\Implementing-Bubble Sort.csproj.CoreCompileInputs.cache
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing-Bubble Sort\obj\Debug\Implementing-Bubble Sort.exe
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing-Bubble Sort\obj\Debug\Implementing-Bubble Sort.pdb
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing-Bubble Sort\obj\Debug\Implementing-Bubble Sort.exe.config
