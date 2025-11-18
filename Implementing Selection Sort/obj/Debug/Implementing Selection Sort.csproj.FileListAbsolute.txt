@@ -1,0 +1,8 @@
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing Selection Sort\bin\Debug\Implementing Selection Sort.exe.config
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing Selection Sort\bin\Debug\Implementing Selection Sort.exe
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing Selection Sort\bin\Debug\Implementing Selection Sort.pdb
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing Selection Sort\obj\Debug\Implementing Selection Sort.csproj.AssemblyReference.cache
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing Selection Sort\obj\Debug\Implementing Selection Sort.csproj.CoreCompileInputs.cache
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing Selection Sort\obj\Debug\Implementing Selection Sort.exe
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing Selection Sort\obj\Debug\Implementing Selection Sort.pdb
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Implementing Selection Sort\obj\Debug\Implementing Selection Sort.exe.config
