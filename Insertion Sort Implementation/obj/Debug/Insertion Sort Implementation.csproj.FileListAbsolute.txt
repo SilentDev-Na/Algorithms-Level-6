@@ -1,0 +1,8 @@
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Insertion Sort Implementation\bin\Debug\Insertion Sort Implementation.exe.config
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Insertion Sort Implementation\bin\Debug\Insertion Sort Implementation.exe
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Insertion Sort Implementation\bin\Debug\Insertion Sort Implementation.pdb
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Insertion Sort Implementation\obj\Debug\Insertion Sort Implementation.csproj.AssemblyReference.cache
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Insertion Sort Implementation\obj\Debug\Insertion Sort Implementation.csproj.CoreCompileInputs.cache
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Insertion Sort Implementation\obj\Debug\Insertion Sort Implementation.exe
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Insertion Sort Implementation\obj\Debug\Insertion Sort Implementation.pdb
+D:\Algorithms And Problem Solving C23\Algorithms-Level-6\Insertion Sort Implementation\obj\Debug\Insertion Sort Implementation.exe.config
